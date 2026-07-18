@@ -1,5 +1,3 @@
-<img src="https://tenor.com/view/nyan-cat-rainbow-cat-kitten-kitty-gif-5716621" width="200" align="center" alt="Nyan Cat" />
-
 ## Hi, I'm Angrytoast 👋
 
 I'm a casual developer juggling school and coding stuff for fun (and yes, I use Arch, btw). 
