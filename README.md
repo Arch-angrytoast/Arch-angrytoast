@@ -8,8 +8,6 @@
 # Hi, I'm Angrytoast 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Arch-angrytoast&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="200" align="right" alt="Nyan Cat" />
-
 I'm a casual developer juggling school and coding stuff for fun (and yes, I use Arch, btw). 
 
 ### 👨‍💻 About Me
