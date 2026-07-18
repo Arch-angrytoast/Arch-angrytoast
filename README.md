@@ -33,8 +33,8 @@ I'm a casual developer juggling school and coding stuff for fun (and yes, I use 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angrytoast&theme=dark&show_icons=true&hide_border=true" alt="Angrytoast's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angrytoast&theme=dark&layout=compact&hide_border=true" alt="Angrytoast's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arch-angrytoast&theme=dark&show_icons=true&hide_border=true" alt="Angrytoast's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-angrytoast&theme=dark&layout=compact&hide_border=true" alt="Angrytoast's Top Languages" />
 </div>
 
 ### 🔗 Where to find me
