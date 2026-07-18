@@ -1,5 +1,6 @@
 <img src="https://tenor.com/x9jJ.gif" width="200" align="right" alt="Nyan Cat" />
-# Hi, I'm Angrytoast 👋
+
+## Hi, I'm Angrytoast 👋
 
 I'm a casual developer juggling school and coding stuff for fun (and yes, I use Arch, btw). 
 
