@@ -1,4 +1,4 @@
-<img src="https://tenor.com/x9jJ.gif" width="200" align="right" alt="Nyan Cat" />
+<img src="https://tenor.com/view/nyan-cat-rainbow-cat-kitten-kitty-gif-5716621" width="200" align="center" alt="Nyan Cat" />
 
 ## Hi, I'm Angrytoast 👋
 
